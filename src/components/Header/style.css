@@ -184,7 +184,7 @@ header .header--bottom p {
 @media (max-width: 1500px) {
   .header--name {
     margin-top: 10vh;
-    font-size: 100px;
+    font-size: 80px;
   }
 
   .header--top,
